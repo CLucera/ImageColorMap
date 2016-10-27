@@ -2,6 +2,8 @@
 ImageView extension used to simple create complex shape buttons, use 2 equal sized image to find which part of the imageview was clicked.
 the OnClickColorMapListener interface helps to translate the tap on the shown image in the color code of the map image.
 
+![example reference](app_reference.png)
+
 ## Code Example
 
 the Implementation is really simple, you can use it from xml or directly in java code, the usage is really similar to a normal ImageView
