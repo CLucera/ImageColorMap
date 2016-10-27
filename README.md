@@ -43,7 +43,7 @@ imageColorMap.setOnClickColorListener(new ImageColorMap.OnClickColorMapListener(
 
 you can simple grab the library using gradle adding this row in the app module build.gradle file
 ```groovy
-compile 'it.paguru:imagecolormap:0.0.1
+compile 'it.paguru:imagecolormap:0.0.2
 ```
 
 ## Tests
