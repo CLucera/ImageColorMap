@@ -1,8 +1,8 @@
 # ImageColorMap
-ImageView extension used to simple create complex shape buttons, use 2 equal sized image to find which part of the imageview was clicked.
-the OnClickColorMapListener interface helps to translate the tap on the shown image in the color code of the map image.
+ImageView extension used to simple create complex shape buttons, ImageColorMap use 2 equal sized image to find which part of the imageview was clicked.
+the OnClickColorMapListener interface helps to translate the tap on the shown image into the color code of the map image at the same coordinate.
 
-![example reference](app_reference.png)
+![sample reference](app_reference.png)
 
 ## Code Example
 
